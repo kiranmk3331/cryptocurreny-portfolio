@@ -21,7 +21,7 @@ function Search({ handleSearch, searchResult, handleSelect }) {
             onChange={handleSearch}
             type="text"
             autoComplete="off"
-            name="amount"
+            name="crypto"
             placeholder="Ex: bitcoin, etherium, litecoin"
             className="field"
           />
